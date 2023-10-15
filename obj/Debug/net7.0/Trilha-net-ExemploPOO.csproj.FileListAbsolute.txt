@@ -1,0 +1,14 @@
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\obj\Debug\net7.0\Trilha-net-ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\obj\Debug\net7.0\Trilha-net-ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\obj\Debug\net7.0\Trilha-net-ExemploPOO.AssemblyInfo.cs
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\obj\Debug\net7.0\Trilha-net-ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\bin\Debug\net7.0\Trilha-net-ExemploPOO.exe
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\bin\Debug\net7.0\Trilha-net-ExemploPOO.deps.json
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\bin\Debug\net7.0\Trilha-net-ExemploPOO.runtimeconfig.json
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\bin\Debug\net7.0\Trilha-net-ExemploPOO.dll
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\bin\Debug\net7.0\Trilha-net-ExemploPOO.pdb
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\obj\Debug\net7.0\Trilha-net-ExemploPOO.dll
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\obj\Debug\net7.0\refint\Trilha-net-ExemploPOO.dll
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\obj\Debug\net7.0\Trilha-net-ExemploPOO.pdb
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\obj\Debug\net7.0\Trilha-net-ExemploPOO.genruntimeconfig.cache
+C:\Users\dakto\OneDrive\Documentos\GitHub\Trilha-net-ExemploPOO\obj\Debug\net7.0\ref\Trilha-net-ExemploPOO.dll
